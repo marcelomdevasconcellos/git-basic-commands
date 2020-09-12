@@ -12,6 +12,13 @@ git config --global user.email you@example.com
 git commit --amend --author='Your Name <you@example.com>'
 ```
 
+## Criar um branch cópia do branch master
+
+```
+git checkout master
+git checkout -b <novo branch>
+```
+
 ## See More
 
 https://education.github.com/git-cheat-sheet-education.pdf
