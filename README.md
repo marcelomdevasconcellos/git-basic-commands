@@ -3,9 +3,8 @@ Git Cheat Sheet
 
 ## Comandos para criar um repositório GIT a partir de um diretório existente
 
-`cd existing_folder`
-
-`git init`
+```cd existing_folder
+git init```
 
 `git remote add origin https://<endereco do repositório>.git`
 
