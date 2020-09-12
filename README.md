@@ -19,6 +19,6 @@ git checkout master
 git checkout -b <novo branch>
 ```
 
-## See More
+## Veja mais
 
 https://education.github.com/git-cheat-sheet-education.pdf
