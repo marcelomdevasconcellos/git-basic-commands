@@ -20,3 +20,7 @@ Git Cheat Sheet
 `git config --global user.email you@example.com`
 
 `git commit --amend --author='Your Name <you@example.com>'`
+
+## See More
+
+https://education.github.com/git-cheat-sheet-education.pdf
